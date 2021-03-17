@@ -17,6 +17,8 @@ DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 >>DATABASE FILE IS INSIDE "database" FOLDER!
+>>
+<br/>
 <img src="https://github.com/pepelawycliffe/ecommerce_website/blob/main/1.png">
 <img src="https://github.com/pepelawycliffe/ecommerce_website/blob/main/2.png">
 <img src="https://github.com/pepelawycliffe/ecommerce_website/blob/main/3.png">
